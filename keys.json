@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "key": "HQ_ACCESS_APW65MKQ",
+    "role": "ACCESS",
+    "used": false
+  },
+  {
+    "key": "HQ_ACCESS_1WFN4V4I",
+    "role": "ACCESS",
+    "used": false
+  },
+  {
+    "key": "HQ_ACCESS_FAZNPTLK",
+    "role": "ACCESS",
+    "used": false
+  }
+]
